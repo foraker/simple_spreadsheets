@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ss:Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:o="urn:schemas-microsoft-com:office:office"
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:html="http://www.w3.org/TR/REC-html40">
+  <ss:Worksheet ss:Name="Acceptances">
+    <ss:Table>
+      <ss:Row>
+        <ss:Cell><ss:Data ss:Type="String">Row 1 title</ss:Data></ss:Cell>
+        <ss:Cell><ss:Data ss:Type="String">Row 2 title</ss:Data></ss:Cell>
+        <ss:Cell><ss:Data ss:Type="String">Row 3 title</ss:Data></ss:Cell>
+      </ss:Row>
+      <ss:Row>
+        <ss:Cell><ss:Data ss:Type="String">Row 1 value</ss:Data></ss:Cell>
+        <ss:Cell><ss:Data ss:Type="String">Row 2 value</ss:Data></ss:Cell>
+        <ss:Cell><ss:Data ss:Type="Number">10</ss:Data></ss:Cell>
+      </ss:Row>
+    </ss:Table>
+  </ss:Worksheet>
+</ss:Workbook>
