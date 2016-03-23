@@ -6,6 +6,7 @@ require 'simple_spreadsheets/version'
 Gem::Specification.new do |spec|
   spec.name          = "simple_spreadsheets"
   spec.version       = SimpleSpreadsheets::VERSION
+  spec.date          = '2016-03-23'
   spec.authors       = ["Foraker Labs"]
   spec.email         = ["llc@foraker.com"]
   spec.summary       = %q{Easily render Excel-friendly spreadsheets.}
