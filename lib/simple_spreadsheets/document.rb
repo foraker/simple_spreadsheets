@@ -2,6 +2,8 @@ module SimpleSpreadsheets
   class Document
     include Rendering
 
+    attr_reader :title
+
     def self.render(title)
       instance = new(title)
       yield instance

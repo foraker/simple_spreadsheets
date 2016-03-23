@@ -4,7 +4,7 @@
   xmlns:x="urn:schemas-microsoft-com:office:excel"
   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
   xmlns:html="http://www.w3.org/TR/REC-html40">
-  <ss:Worksheet ss:Name="Acceptances">
+  <ss:Worksheet ss:Name="Title">
     <ss:Table>
       <ss:Row>
         <ss:Cell><ss:Data ss:Type="String">Row 1 title</ss:Data></ss:Cell>
